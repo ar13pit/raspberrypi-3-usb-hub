@@ -1,2 +1,2 @@
-# raspberrypi-3-usb-hub
-KiCAD files for Raspberry Pi 3 SMPS powered USB Hub
+# USB Hub for SMPS powered Raspberry Pi 3 Cluster
+The repository contains Schematic and PCB files for SMPS powered USB Power Hub for a Raspberry Pi Cluster.
