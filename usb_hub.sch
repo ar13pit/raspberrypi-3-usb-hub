@@ -409,7 +409,7 @@ U 1 1 5941144A
 P 2550 2000
 F 0 "J3" H 2550 2100 50  0000 C CNN
 F 1 "DIL24" H 2550 1900 50  0000 C CNN
-F 2 "Connectors_Molex:Molex_MiniFit-JR-5556-24A_2x12x4.20mm_Straight" H 2550 2000 50  0001 C CNN
+F 2 "Custom_Connectors:ATX_Wire_On_Board" H 2550 2000 50  0001 C CNN
 F 3 "" H 2550 2000 50  0001 C CNN
 	1    2550 2000
 	1    0    0    -1  
